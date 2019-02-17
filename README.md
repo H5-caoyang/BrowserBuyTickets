@@ -1,2 +1,2 @@
-# luckyDraw
+# BrowserBuyTickets
 可在浏览器端登录12306网站，将代码复制到调试页面运行抢票！！！（仅供参考）
